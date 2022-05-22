@@ -2,8 +2,6 @@ package com.example.java9;
 
 public class aiplaneInfo {
 
-    private static final int A320 = 179;
-    private static final int F = 15;
     public static Integer Jet;
     public static Integer Airbus;
     public static Integer Boeing;
